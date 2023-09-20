@@ -5,7 +5,7 @@
 .content-main{
     padding: 50px;
     display: grid;
-    grid-template-columns: repeat(5, 1fr);
+    /* grid-template-columns: repeat(5, 1fr); */
     justify-content: center;
     column-gap: 30px;
     row-gap: 30px;

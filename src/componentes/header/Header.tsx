@@ -8,7 +8,7 @@ function Header(){
             <nav>
                 <ul>
                     <li>
-                        <a href="#">Pagina inicial</a>
+                        <a href="http://localhost:5173/">Pagina inicial</a>
                     </li>
                     <li>
                         <a href="#">Status</a>
