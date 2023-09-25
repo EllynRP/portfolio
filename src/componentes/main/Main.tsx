@@ -20,48 +20,54 @@ function Main(){
         },
         {
             id:2,
+            titulo:"Projeto de pesquisa: O Sudeste Asiático: Estratégias de desenvolvimento econonômico no mundo globalizado (1967-2019)", 
+            sinopse: "", 
+            imagem:"/certificadoProjeto.png"
+        },
+        {
+            id:3,
             titulo:"Certificado da FECINAVI", 
             sinopse: "2021", 
             imagem:"/sudesteAsiatico.png"
         },
         {
-            id:3,
+            id:4,
             titulo:"Coreano Nível 1", 
             sinopse: "2021", 
             imagem:"/coreanoNivel1.png"
         },
         {
-            id:4,
+            id:5,
             titulo:"Coreano Nível 3", 
             sinopse: "2022", 
             imagem:"/coreanoNivel3.png"
         },
         {
-            id:5,
+            id:6,
             titulo:"Concurso sobre a história da Coreia", 
             sinopse: "2023", 
             imagem:"/concursoCoreano.png"
         },
         {
-            id:6,
+            id:7,
             titulo:"📚", 
             sinopse: "No momento estou fazendo um curso de Inglês Básico II e mais dois projetos; OBI 2023 e Ritmos da Vida.", 
             imagem:"/study.jpg"
         },
         {
-            id:7,
+            id:8,
             titulo:"🐱👍", 
             sinopse: "", 
             imagem:"/gato.jpg"
         },
         {
-            id:8,
+            id:9,
             titulo:"🐶👍", 
             sinopse: "", 
             imagem:"/cachorro.jpg"
         },
         {
-            id:9,
+            id:10,
             titulo:"Obrigado pela atenção", 
             sinopse: "", 
             imagem:"/tere.jpg"
