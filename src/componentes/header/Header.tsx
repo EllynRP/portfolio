@@ -1,4 +1,5 @@
 import './Header.css'
+import { Link } from 'react-router-dom'
 function Header(){
     return(
         <header>
@@ -8,21 +9,20 @@ function Header(){
             <nav>
                 <ul>
                     <li>
-                        <a href="http://localhost:5173/">Pagina inicial</a>
+                        <Link to="/">Página Inicial</Link>
                     </li>
                     <li>
-                        <a href="#">Status</a>
+                        <Link to="/status">Status</Link>
                     </li>
                     <li>
-                        <a href="#">Currículo</a>
+                        <Link to="/curriculo">Currículo</Link>
                     </li>
                     <li>
-                        <a href="#">Contato</a>
+                        <Link to="/contato">Contato</Link>
                     </li>
                 </ul>
             </nav>
         </header>
     )
 }
-
 export default Header
