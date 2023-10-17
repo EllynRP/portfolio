@@ -29,18 +29,45 @@
 }
 
 .formularioDescricao{
-  background-color: rgb(190, 190, 190);
   padding:10px ;
   width: 20vw;
+  margin-top: 30px;
 }
 
 .formularioContato{
-  background-color: rgb(133, 132, 132);
   padding:10px ;
-  width: 15vw;
+  width: 20vw;
+  display: flex;
+  align-items: center;
 }
 
 .descricaoFormulario{
   display: flex;
   align-items: center;
+}
+
+form{
+  display: flex;
+  flex-direction: column;
+  margin-left: 100PX;
+}
+
+.inputForm{
+  height: 25px;
+  border: 1px solid #bebebe;
+  width: 200px;
+  border-radius: 2px;
+  font-size: 17px;
+}
+
+.botaoEnviar{
+  margin: 20px;
+  width: 110px;
+  height: 30px;
+  margin-left: 50px;
+}
+
+.botaoEnviar:hover{
+  background-color: #4b00bc;
+  color: white;
 }

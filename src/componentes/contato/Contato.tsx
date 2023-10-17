@@ -34,7 +34,25 @@ function Contato(){
                 </div>
               </div>
               <div className="formularioContato">
-              dv TF part 2 
+              <form>
+                <label>
+                  <p>Nome completo:</p>
+                  <input className="inputForm" type="text" name="Seu nome" />
+                </label>
+                <label>
+                  <p>Email:</p>
+                  <input className="inputForm" type="email" name="Seu email" />
+                </label>
+                <label>
+                  <p>Numero de Telefone:</p>
+                  <input className="inputForm" type="text" name="seu numero de telefone" />
+                </label>
+                <label>
+                  <p>Mensagem:</p>
+                  <input className="inputForm" type="text" name="Sua mensagem" />
+                </label>
+                <input className="botaoEnviar" type="submit" />
+              </form>
               </div>
             </div>
           </div>
