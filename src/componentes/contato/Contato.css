@@ -30,10 +30,17 @@
 
 .formularioDescricao{
   background-color: rgb(190, 190, 190);
-  padding:20px ;
+  padding:10px ;
+  width: 20vw;
 }
 
 .formularioContato{
   background-color: rgb(133, 132, 132);
-  padding:20px ;
+  padding:10px ;
+  width: 15vw;
+}
+
+.descricaoFormulario{
+  display: flex;
+  align-items: center;
 }
